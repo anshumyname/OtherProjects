@@ -1,0 +1,27 @@
+CARLY JENSEN
+
+FRESHER
+
+ABOUT
+
+Data Scientist fresher with strong cohesive skills related to machine learning and deployment of end-to-end projects.
+
+SKILLS
+
+Machine Learning, Linear Regression, Ridge Regression, Lasso Regression, Tableau, Time Series Analysis.
+
+PROJECT WORK EXPERIENCE
+
+Cool-factor-meter: Complete End to End Remiro Amio
+
+project to determine how a product might Intern, Jan 2019 to Sep 2019
+
+perform among younger crowds based on
+
+tags. Culture shock analysis using targeted data.
+OTHER QUALIFICATION EDUCATION
+
+Understanding Data Analysis B.Tech (IT) from DJR College and University, 2020
+
+Python For Advanced data Engineering.
+

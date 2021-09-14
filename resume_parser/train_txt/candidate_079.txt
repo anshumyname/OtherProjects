@@ -1,0 +1,42 @@
+  
+ 
+
+JULIA CH
+
+JUNIOR ENGINEER
+
+ 
+
+WORK EXPERIENCE
+
+| like to identify the main objective Tata Consultancy Services Ltd.
+
+of a problem and then work on it to Junior Data Engineer, Nov 2019 to Apr 2021
+improve results. Build End-to-End
+
+Projects using Agile Methodology Sentiment Analysis using the lexicon-based
+
+approach of semantic analysis. This technique
+calculates the sentiment orientations of the whole
+document or set of sentences from a semantic
+orientation of lexicons.
+
+Python, Machine Learning, Text
+Analytics, Big Data Analytics, Data
+Mining, Natural Language
+
+ees Analysis, ACADEMIC PROFILE
+
+B.Tech (Instrumentation and Control) from Nagpur
+University in 2019
+
+Processing, cleansing, and
+verifying the integrity of data used
+for analysis using Python.
+
+ETL pipeline to extract data from
+
+source DB to target DB.
+
+ 
+

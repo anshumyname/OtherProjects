@@ -1,0 +1,33 @@
+JAIME HORAN
+
+DATA ANALYST
+
+ABOUT
+
+Data Analyst, interested in Machine Learning application development. As a data analyst, | have extensive experience with
+data preprocessing and pipeline building and | would like to venture further into this domain to learn more about it.
+
+SKILLS
+
+Data Analyst, Data Analytics, Data Analysis, Time Series Analysis, Business Analytics, Predictive Modeling, Regression
+Analysis, Image Processing, Data Visualization, Linear Regression, Statistical Analysis, Requirement Analysis, SQL,
+Tableau, Python.
+
+WORK EXPERIENCE
+
+Sanrachna SGT University
+Deputy Data Analyst Jun 2019 to Jun 2020
+
+Creating reports, extracting, and cleaning the data.
+Data Analysis, EDA and modelling of the secondary
+data particularly data related to weather. Creating
+dashboards using RShiny of quantitative data and
+made a good animated graphical representation,
+worked on unstructured text data as well, built a text
+classifier.
+
+EDUCATION
+
+BSc (Information Technology) from Sikkim Manipal
+university in 2019
+

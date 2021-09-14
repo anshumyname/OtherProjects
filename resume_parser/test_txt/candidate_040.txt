@@ -1,0 +1,31 @@
+PERSONAL PROFILE
+
+Fresher, working as a Software Developer
+and interested in Machine Learning Roles.
+Familiar with how large scale models are
+built and data processing is done for large
+amounts of data. Also well acquainted with
+the norms of Python development.
+
+SKILLS
+
+C++, Python, C, Software Developer,
+Prediction Modelling, Machine
+Learning.
+
+ETHAN GARCIA
+
+FRESHER DEVELOPER ENGINEER
+
+WORK BACKGROUND
+
+SRD Insitute
+Developer Engineer, Dec 2020 to Ongoing
+
+Developed a prediction model to verify the claims lodged by customer.
+
+EDUCATION
+
+B.Tech (Computers) from National Institute of Technology (NIT),
+Hamirpur in 2020
+

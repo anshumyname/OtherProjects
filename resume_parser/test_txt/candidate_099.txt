@@ -1,0 +1,44 @@
+Edison Anys
+
+MACHINE LEARNING ENGINEER
+
+Executive Profile
+
+Machine Learning Engineer seeking roles
+
+in Machine Learning, Natural Language
+Processing, Artificial Intelligence, Data
+Science.
+
+Skills
+
+Machine Learning, Natural Language
+
+Processing, Artificial Intelligence, Python,
+
+SQL, Docker, Spacy, Numpy, Pandas,
+TensorFlow.
+
+Other Activities
+
+Gold Medalist in Bachelors.
+
+Projects
+
+Cloud based Distributer Management
+System(DMS).
+
+Work Experience
+
+KRUZR
+Machine Learning Engineer Intern, Dec 2019 - August 2020
+
+Working for ML team at Kruzr on building driver safety platform.
+Experience in working with loT data from smartphone sensors and
+productionizing ML models at scale.
+
+Education
+
+Integrated B.E. and M.Sc Hons. (Hons. Mechanical Engineering) from
+Birla Institute of Technology and Science (BITS), Pilani in 2020
+

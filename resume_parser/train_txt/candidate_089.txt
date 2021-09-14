@@ -1,0 +1,38 @@
+HELENA PATRICKS
+
+FRESHER PYTHON DEVELOPER
+
+PERSONAL PROFILE WORK BACKGROUND
+
+Fresher who is well acquainted with some
+of the Natural Language Processing (NLP)
+and text analysis. | have worked on a few
+projects and also on databases to extract
+
+Chrysalis
+Python Developer Intern, Feb 2019 - Jul 2019
+
+data and process them. In search of a role Building a business decision support system inclusive of data
+where | can understand about the exploration.
+
+commercial applications and contribute to
+
+them.
+
+SKILLS EDUCATION
+
+Data Analysis, Machine Learning, B.Sc(CA) MIET, Baliya(UP) 2021.
+
+Regression Analysis, Time Series
+Analysis, SQL, Base SAS, Python,
+Natural Language Processing, Text
+analysis, Numpy, Pandas, Matplotlib,
+Seaborn, Statistical Analysis, NLTK,
+BERT, Transformers, Pytesseract,
+Clustering, KNN, K-Means.
+
+PROJECTS OTHER ACTIVITIES
+
+Determination of Likelihood of Introduction to R
+purchase based on KNN. Google Analytics for Beginners
+

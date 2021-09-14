@@ -1,0 +1,49 @@
+KELSEY STENS
+
+SOFTWARE DEVELOPER(MACHINE LEARNING)
+
+PERSONAL PROFILE
+
+Software developer focused in the areas of
+
+Machine learning application development.
+
+Motivated to learn, grow and excel my
+experience by challenging myself.
+
+SKILLS
+
+Software Engineer, Data Analyst,
+Machine Learning, Text Analytics,
+Software Development, Object
+Oriented Programming, Pandas,
+Numpy, Java, Python, SpringBoot,
+Laravel.
+
+PROJECTS
+
+Built predictive and decision models
+using machine learning algorithms.
+
+Developed and integrated the UI
+components with HMI framework for
+Head Up Display.
+
+WORK BACKGROUND
+
+KLP Technology Solutions
+Software Engineer, Jan 2019 - till date
+
+Built predictive and decision models using machine learning
+algorithms for various business study cases with feature
+engineering and evaluation methods.
+
+EDUCATION
+
+B.Tech CECE) Dr. Jagjiban Rao Engineering College, 2019
+
+OTHER ACTIVITIES
+
+OnDevice Machine Learning
+UI/UX development
+

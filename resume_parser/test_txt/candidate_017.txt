@@ -1,0 +1,43 @@
+JUNIOR MACHINE LEARNING ENGINEER
+
+SKILLS
+
+Data Analyst, Data Analytics,
+WF Tou al ial-ws -t-l gallate me-Vaunucel i=]
+Intelligence, Linear Regression,
+Clustering, MongoDB, Flask, AWS,
+Git, Python, Neural Networks,
+PyTorch, C++, CNN, Image
+Processing.
+
+PROJECTS
+
+Music suggestion from closest
+words in a search term using
+Flask.
+
+ 
+
+PROFILE
+
+lam a Junior Machine Learning developer who focuses on data
+improvement and modelling, finding patterns in large databases and
+optimization of different models.
+
+EXPERIENCE
+
+CAPITUM INDIA, NASIK
+
+JUNIOR MACHINE LEARNING ENGINEER, APR 2020 TO TILL DATE
+Evaluating and pre-processing client's credit data and financial
+statements in order to determine the degree of risk involved in
+lending money to them. Mine and analyze data from company
+databases to drive optimization and improvement of product
+development, marketing techniques, and business strategies.
+Search for ways to get new data sources and assess their accuracy
+
+EDUCATION
+
+B.TECH(ELECTRICAL) FROM JCP COLLEGE OF ENGINEERING AND
+TECHNOLOGY, MUMBAI IN 2020
+

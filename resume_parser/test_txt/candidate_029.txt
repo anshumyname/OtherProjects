@@ -1,0 +1,32 @@
+Eli Scott
+
+FRESHER
+
+Executive Profile Work Experience
+
+Seeking challenging opportunity in the JP Chand and Co
+
+field of data science and data analytics Intern , May 2020 - Oct 2020
+
+where | can utilize my skills and Trained as a Python developer and machine learning model builder.
+
+knowledge to contribute for the growth of
+the organization
+
+Education
+
+Skills B.Tech(Metallurgy) CIT, Calicut, 2019
+
+Python, MySQL, Tensorflow, Keras,
+Machine Learning, Deep Learning.
+
+Other Activities
+
+Python Machine Learning Udacity
+
+Projects
+
+Prediction model which can predict the
+impact of the incident raised by the
+customer.
+

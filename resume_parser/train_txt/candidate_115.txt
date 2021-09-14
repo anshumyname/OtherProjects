@@ -1,0 +1,53 @@
+JAYLA RAMIREZ
+
+DATA SCIENCE ENGINEER
+
+ 
+
+PROFESSIONAL PROFILE EMPLOYMENT HISTORY
+
+As a Data Scientist, | have expertise in Geakminds Inc
+both Machine Learning and Statistical
+
+analvals wealamiewes, Currently, | en Associate Data Science Engineer, Jan 2018 - Ongoing
+
+handling the End-to-End Data Science Demand Forecasting for parts/material based availability in
+process in Azure Environment, from Warehouse/Plant and also to determine the optimum level of
+gathering requirements from the business inventory for the Organization. Identify orders at Risk during the
+team to Deploying model in Production. order processing based on business SLAs and Predicted Target, to
+Experience in developing a data-driven increase productivity. Analyzed CDN Edge Network data to
+algorithm to solve business problems improve CDN Edge Network Utilization and identify the anomaly
+which involve selecting features, building in the CDN Edge network across all gateways.
+
+and optimizing machine learning
+techniques, and presenting data to the
+business team.
+
+PROFICIENT SKILLS
+
+Data Analyst, Database Management,
+
+Data Integration, Machine Learning,
+
+Natural Language Processing, Artificial
+
+Intelligence, Deep Learning, Python, SQL,
+
+Data Science, Tableau, PowerBi, Business EDUCATIONAL HISTORY
+Analysis, AWS Lambda, Spark, PySpark,
+
+Azure, SQL Server.
+
+B.Com (Commerce) from Madras University in 2017.
+
+MBA from SRM university (SRMU) in 2019.
+PROJECTS y (
+
+Geo Data Collection and Prediction of
+Natural Diasters.
+
+ACHIEVEMENTS AND EXTRA
+CURRICULAR
+
+Data Analyst Nano Degree - Udacity
+

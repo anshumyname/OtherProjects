@@ -1,0 +1,34 @@
+DYLAN HERNANDEZ
+
+GRADUATE MACHINE LEARNING DEVELOPER
+
+ABOUT
+
+Experienced software professional looking for data science and machine learning roles. Masters in machine learning. Good
+Knowledge of Software Development processes and Object-oriented programming. Sound Knowledge of python, scikit
+learn and keras.
+
+SKILLS
+
+Python, Scikit Learn, Keras, Tensorflow, Object Oriented Programming, Machine Learning, Software Engineering,
+Application Development.
+
+PROJECT WORK EXPERIENCE
+Intelligent Disease Recognition using Cause CISCO
+Pair Extraction Software Developer and Analyst Trainee
+
+OCT 2018 - May 2019
+
+OTHER QUALIFICATION
+
+Developed Async Functions to connect ML
+
+Understanding Neural Networks - Nanyang Applications and databases of clients.
+
+University
+EDUCATION
+B.Tech(Instrumentation) Jodhpur University, Jodhpur,
+2018
+
+M.tech (Machine Learning) IIIT Delhi, 2021
+

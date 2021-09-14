@@ -1,0 +1,26 @@
+GINANNA GOMEZ
+
+FRESHER
+
+ABOUT
+
+Fresher starting out and wanting to join a role of machine learning engineer or data science engineer.
+
+SKILLS
+
+Data Science, Data Analysis, Deep Learning, Machine Learning, Artificial Intelligence, Linear Regression, Statistical
+Modeling, Predictive Modeling, Bootstrap, MySQL, JDBC, HTML, PHP, CSS, C++.
+
+PROJECTS WORK EXPERIENCE
+Portal Building for store front. HiB Pvt Ltd
+Intern, May 2019 - Dec 2019
+
+ACTIVITES Building a portfolio store front based on
+
+Python statistics with Pandas and Matplotlib recommender system.
+
+EDUCATION
+
+BCA BGBS College, Mohantpur 2018
+MCA BGBS College, Mohantpur 2020
+

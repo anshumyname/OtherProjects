@@ -1,0 +1,37 @@
+ 
+
+ZACHARY PEREZ
+
+INTERN
+
+PROFILE SKILLS
+
+Good knowledge of C++ and OOPS concepts. Good Embedded Software Development, Embedded
+knowledge of Data Structures. Knowledge of scripting Systems, Project Management, Change
+language, Python. Understanding of Internals of operating Management, Defect Management, Machine
+systems (OS), GIT, and SVN as version control system. Learning, Unit Testing, C++, GIT, Data Structures,
+Python.
+
+ 
+
+EXPERIENCE EDUCATION
+
+BOSE
+
+B.Tech(Telecommunication) from
+Product Engineer Intern, Jan 2019 - Aug 2019
+
+Jawaharlal Nehru Technological
+Creating NLP based recommendation system for a product University (JNTU) in 2017.
+catalog. The data was taken from a customer survey and M.Tech (Electrical) from Manipal
+
+we did some pruning, cleaning and finally building the . . ;
+model to publish on the website. University in 2019.
+
+PROJECTS ACTIVITIES
+
+NA Emertxe Certified Embedded
+Professional (ECEP).
+
+ 
+

@@ -1,0 +1,37 @@
+MAYA HAYDEN
+
+GRADUATE RESEARCHER
+
+PROFILE SKILLS
+
+I'm passionate learner with a knack for Artificial Data Science, Data Analysis, Deep Learning,
+Intelligence. The kind of problems Al can solve, fills me with
+
+Machine Learning, Artificial Intelligence,
+enthusiasm to learn more and contribute more. | have —
+dedicated more than a year developing and training Python, MATLAB, NLP, Computer Vision, Keras,
+Machine learning Models across several projects. Pytorch, RNN, Keras.
+
+ 
+
+EXPERIENCE EDUCATION
+
+IIT Labs B.Tech IIT Kharagpur, 2017
+
+Associate Researcher, May 2019 - till date M.Tech IIT Kharagpur, 2019
+Worked as an Artificial Intelligence
+
+Researcher in IIT for more than a year
+developing and working on SoTA models and
+tuning them for publications purposes.
+
+PROJECTS ACTIVITIES
+
+Image Captioning PyTorch Developer - Pytorch Academy
+Sentiment Analysis
+Visualization using Principle component
+
+analysis
+
+ 
+

@@ -1,0 +1,56 @@
+ 
+
+DAMIAN ROSSIER
+
+JUNIOR DATA SCIENTIST
+
+PROFILE
+
+Expertise EDA modeler. | like to learn what my data contains
+and how well | can model it depending on the problem. |
+can also leverage different visualization tools to aid the
+understanding of the extracted data and finally use the
+
+required ML algorithm to get an outcome.
+
+SKILLS
+
+Data Analysis, Business Analysis, Machine
+Learning, Regression Analysis, Time Series
+Analysis, SOL, Base SAS, Python, NLP, Credit
+Risk, Tableau, Statistical Analysis, Data
+Visualization, Data Science, R, Power Bi.
+
+ 
+
+EXPERIENCE
+
+Passionate Solution
+
+Jr. Data Scientist, Feb 2020 - Ongoing
+Performing EDA and then clean the data to
+fit a model over it.
+
+PROJECTS
+
+Price Forecasting using Time Series
+Analysis
+
+Reliability Analysis of Non-Repairable
+Tractor Parts
+
+Determination of Likelihood of purchase
+
+EDUCATION
+
+B.CA KVoCT, Pune 2018
+M.CA KVoCT, Pune 2020
+
+ACTIVITIES
+
+Advanced Formulas & Functions in Excel
+Introduction to R
+Google Analytics for Beginners
+
+ 
+

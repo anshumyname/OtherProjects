@@ -1,0 +1,42 @@
+CAROLIN BANKS
+
+PERSONAL PROFILE
+
+lam a software engineer, and | want to
+work on full time roles associated with
+Machine Learning. | have previously worked
+on some corporate models and due to its
+intricacies | want to explore more in the
+domain.
+
+SKILLS
+
+C++, Python, Firebase, Flutter,
+Tensorflow, Pandas, Numpy, Kotlin,
+Java, MongoDB, NoSQL.
+
+PROJECTS
+
+Face Recognition system
+
+SOFTWARE DEVELOPER
+
+WORK BACKGROUND
+
+XceelSior
+SDE , May 2019 - Till date
+
+Used unsupervised learning algorithms like DBSCAN to identify new
+identities in the system. This was used to increase the number of
+identities in the Face recognition pipeline. Enhanced this setup by
+implementing the K-Means algorithm as well.
+
+EDUCATION
+
+B.Tech (Computers) from National Institute of Technology (NIT),
+Hamirpur in 2020
+
+OTHER ACTIVITIES
+
+B.Tech(Metallurgy) CIT, Calicut, 2019
+

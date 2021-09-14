@@ -1,0 +1,53 @@
+JOSHUA WHITE
+
+ASSISTANT SOFTWARE AND MACHINE LEARNING ENGINEER
+
+PERSONAL PROFILE
+
+Associate software engineer specializing in
+Machine Learning models and
+Optimization. | work with both natural
+Language processing and computer vision
+in terms of Modelling and development.
+
+SKILLS
+
+Machine Learning, Software Developer,
+Software Engineering, ML Engineer,
+Model Building, Deep Learning,
+Numpy, Pandas, PySpark, Hadoop,
+Matplotlib, Keras, Tensorflow,
+TensorflowJS, AngularJS, Computer
+Vision, Natural Language Processing,
+HuggingFace, Data Wrangling, Scikit
+Learn, Algorithm Optimization.
+
+PROJECTS
+
+Summarizer of Executive Q&A using
+BERT.
+
+OnDevice Machine Learning using
+Tensoflow.
+
+WORK BACKGROUND
+
+Larsen & Toubro
+Machine Learning Engineer, Jul 2019 to Till Date
+
+Built an OCR-based Material Test Report validation system which reduced
+lookup time from 20mins to 2mins.
+
+Implemented Knowledge Graphs that helped SME's to retrieve factual
+information on various windmill parts
+
+EDUCATION
+
+B.Tech(Electronics/Telecommunication) from IIIT D&M Kancheepuram,
+Chennai in 2019
+
+OTHER ACTIVITIES
+
+Junior Engineer Award L&T
+Best Solution Provided L&T
+

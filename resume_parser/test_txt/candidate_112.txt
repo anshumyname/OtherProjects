@@ -1,0 +1,34 @@
+BLAKE MESTLY
+
+GRADUATE ANALYST
+
+ABOUT
+
+Graduate analyst currently working as business analyst consultant. As an individual, | always try to overcome problems in
+the most analytical manner. | want to work on Machine Learning application problems that deal with real life scenarios.
+
+SKILLS
+
+Business Analysis, Machine Learning, Requirement Gathering, Data Analysis, Artificial Intelligence, Predictive Modeling,
+Deep Learning, Data Modeling, Manual Testing, Quality Assurance, Python, R, SQL, HTML, Numpy, Tensorflow.
+
+PROJECTS WORK EXPERIENCE
+
+Automated System Generated mail delivery. Loyalty Rewards Management. Pvt. Ltd.
+Business Analyst, Aug 2020 to Till Date
+
+ACTIVITES Administering applications & assessing feasibility;
+designing lean proofs; deciding API fields and
+gathering information pertaining to it.
+
+Worked with complex and rich data sets to build and
+deploy the best data solutions to complex business
+problems.
+
+Working with Open Source Projects
+
+EDUCATION
+
+B.Tech(Mechanical) from Indian Institute of
+Technology (IIT), Mumbai in 2020.
+

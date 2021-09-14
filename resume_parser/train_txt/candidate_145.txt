@@ -1,0 +1,30 @@
+JEROME PELINSKY
+
+BIG DATA ANALYST
+
+ABOUT
+
+Big data analytics working and database warehouse manager with robust experience in handling all kinds of data. | have
+also used multiple cloud infrastructure services and am well acquainted with them. Currently in search of role that offers
+more of development.
+
+SKILLS
+
+Big Data, Hadoop, Hive, Python, Mapreduce, Spark, Java, Machine Learning, Cloud, Hdfs, YARN, Core Java, Data Science,
+C++, Data Structures, DBMS, RDBMS, Informatica, Talend, Amazon Redshift, Microsoft Azure.
+
+WORK EXPERIENCE
+
+Coca-COla
+Big Data Analyst, Nov 2019 to Till Date
+
+Using the production and shipment data, create a
+delivery mechanism that would automate the process
+of data warehousing immediately after a batch is
+served out of the production line.
+
+EDUCATION
+
+: B.Tech(Electronics) from The Amity School of
+Engineering & Technology (ASET), Noida in 2019
+

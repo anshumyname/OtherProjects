@@ -1,0 +1,27 @@
+Jaroslav Chechnik
+
+Executive Profile Work Experience
+Looking for a job opportunity in which | Experts Hub
+can interact, learn, and contribute Intern, May 2020
+solutions to the problems, which
+enhances company benefits along with SMART PARKING SYSTEM
+my career.
+Education
+Skills
+
+B. Tech, ECE VIT-AP University 2021
+Python, Anaconda, NumPy, Pandas,
+
+Matplotlib, Scikit Learn, TensorFlow,
+Streamlit, Arduino, Raspberry Pi.
+
+Other Activities
+
+Deep Learning Masters
+Machine Learning
+
+Projects
+
+Music Genre Classification
+Face, eye, smile recognition
+

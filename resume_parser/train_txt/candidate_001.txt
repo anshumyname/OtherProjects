@@ -1,0 +1,47 @@
+Brianna Williams
+
+JUNIOR DEVELOPER
+
+Executive Profile Work Experience
+
+A curiosity-driven data scientist, eager to KPMMC Inc. Machine Learning Junior Developer, Aug 2020 - Ongoing
+leverage machine learning and data
+
+analytics to extract meaningful insights, Engineered an NLP solution that took any kind of text as an input and
+make informed decisions and solve found top 5 Questions and Answers similar to it.
+
+challenging business problems. | ensure Contributed to some other internal projects also.
+
+to contribute with my knowledge, logical
+thinking and analytical skills towards the
+consistent growth and development of
+the organization, and enhance my
+experience through continuous learning
+
+Education
+and teamwork.
+
+BSc(CA) MamCO University Kerala, 2018
+MSc(CA) MamCO University Kerala, 2020
+
+Skills
+
+Data Analysis, Machine learning, Data
+Mining, Natural Language Processing,
+Linear Regression, Cluster Analysis,
+Correlation Analysis, Logistic Regression,
+Principal Component Analysis, Anova,
+Neural Networks, R, Python, MySQL,
+Tableau, Excel, SPSS, Decision tree.
+
+Other Activities
+
+Trained in Big Data Analysis
+Hadoop A-1 Level Certificate
+
+Projects
+
+Chatbot for customer feedback and
+responses.
+Smart Mirror for Jewelry
+

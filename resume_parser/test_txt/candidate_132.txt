@@ -1,0 +1,52 @@
+PERSONAL PROFILE
+
+lam an application developer and
+associate software engineer for Machine
+learning based applications. | wasn't aware
+of Machine learning but after becoming
+familiar with it over the course of a year |
+am very much intrigued and fueled by its
+process and how applications can be
+developed around it. | want to join a role
+where | can experiment and learn with new
+types of data and increase my ability to
+build more complex models in the future.
+
+SKILLS
+
+Deep Learning, Machine Learning,
+Artificial Intelligence, Linear
+Regression, Software Engineering,
+Python, Java, SAP,C, C++, Jenkins,
+Kubernetes, Docker, Backend.
+
+PROJECTS
+
+Al based Cricket Match Intensity
+counter.
+
+Property Valuation using Machine
+Learning.
+
+DAVID PHIAST
+
+APPLICATION DEVELOPER
+
+WORK BACKGROUND
+
+Accenture
+Application Development Associate. Jan 2019 to Jan 2020
+
+Created all master data of SAP EAM. Performed data loading
+from legacy system to SAP system using LSMW. Created
+Configuration documents for clients and also User stories.
+Performed the end to end process of SAP EAM.
+
+EDUCATION
+
+B.Tech(Civil) from Jawaharlal Nehru University in 2019.
+
+OTHER ACTIVITIES
+
+Al on the cloud using Google Cloud Platform.
+

@@ -1,0 +1,30 @@
+ETHAN CONNERS
+
+JUNIOR NLP ENGINEER
+
+ABOUT
+
+| am currently a Graduate who works with NLP-based problems. | am also familiar with Machine Learning Methodologies
+for production environments. Always a team player and ready to take criticism and work towards better outcomes.
+
+SKILLS
+
+Machine Learning, Data Transition, Natural Language Processing, Predictive Analytics, Data Cleaning, Data Visualization,
+Deep Learning, BeRT Modelling, Tensorflow, Python, SciKit Learn and Data computation libraries in python.
+
+PROJECT WORK EXPERIENCE
+EP analysis CutThroat Media
+Polarisation Determination using NLP NLP analyst for user comments, Jan 2019-feb 2020
+
+NLP Classification of toxicity in chat
+Used various techniques to understand user data that
+was being collected from various media outlets on
+
+OTHER QUALIFICATION how people were making their online presence
+
+IABAC Certified Data Scientist through comments.
+DataCamp NLP Degree Coursework
+
+EDUCATION
+B.Tech (Electrical) PGG College Bangalore, 2019
+

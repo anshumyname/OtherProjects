@@ -1,0 +1,41 @@
+James May
+
+FRESHER SOFTWARE DEVELOPER ENGINEER
+
+Executive Profile
+
+Graduate with a niche towards Deep
+Learning. Open Source Contributor and an
+avid chess player. When not working | like
+to climb the Elo ladder.
+
+Skills
+
+Data Structures, Logistic Regression, Linear
+Regression, Machine Learning, Algorithms,
+Deep Learning, GIT, Open Source, Neural
+Networks, CNN, DNN, ANN, RNN, Keras,
+Tensorflow.
+
+Other Activities
+
+Tensorflow Developer Certificate
+
+Projects
+
+Building an Image based recommender
+system by extracting features from a
+given image using pre-trained networks.
+
+Work Experience
+
+GZN Solution
+Intern, Apr 2019 - Dec 2019
+
+Worked as an SDE intern on building End to End Applications that
+leveraged Machine Learning for improved results suggestions.
+
+Education
+
+B.Tech & M.Tech(Integrated) Sighania University, Uttarpradesh, 2020
+

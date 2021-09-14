@@ -1,0 +1,43 @@
+PERSONAL PROFILE
+
+| am Data science enthusiast focused on
+solving complex problems using machine
+learning techniques. | try to simplify
+problems and attack them head on. Always
+working and Striving to be better solution
+finder.
+
+SKILLS
+
+Data Scientist, Machine Learning,
+Python, Big Data, SQL, PySpark, Scala,
+Hive, Scikit Learn, Pandas, Matplotlib,
+Natural Language Processing,
+Transformers, BERT.
+
+PROJECTS
+
+Federated Machine Learning using
+Arduino.
+
+SETH HALL
+
+DATA SCIENTIST AND DEVELOPER
+
+WORK BACKGROUND
+
+NeuraTech
+Developer, Mar 2019 - till date
+
+Using BERT we designed a model which captured the users
+comments on news websites and calculated the reaction based on
+those comments to a news article.
+
+EDUCATION
+
+B.tech CECE) LPU, Chandigarh, 2019
+
+OTHER ACTIVITIES
+
+Deep learning Specialization
+

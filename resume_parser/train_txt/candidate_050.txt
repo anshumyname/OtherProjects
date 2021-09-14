@@ -1,0 +1,55 @@
+ 
+
+MASON MARKINOV
+
+JUNIOR MACHINE LEARNING AND DEEP LEARNING
+ENGINEER
+
+PROFILE
+
+Data Scientist, expertise in Machine Learning and
+Deep Learning. | am also well acquainted with
+standard industry methods and libraries.
+
+ 
+   
+
+EXPERIENCE
+
+TML Infotech
+
+Junior Machine Learning And Deep
+Learning Engineer, Mar 2019 - till date
+
+Creating models for clients based on
+
+large datasets collected w.r.t client
+requirement..
+
+PROJECTS
+Limit Testing using KNN and HMM.
+
+ 
+   
+
+SKILLS
+
+Machine learning, Data Science, Deep
+Learning, Decision Trees, Random Forest,
+XGBoost, CATBoost, Classification,
+Regression, Scikit Learn, Numpy, Pandas,
+OpenCV, Python, Matplotlib, Loss
+Optimization
+
+EDUCATION
+
+B.Tech(CSE) Raja Birsimbal College,
+Ranchi, 2019
+
+ACTIVITIES
+
+Deep Learning Specialization -
+DeepLearning.ai
+
+ 
+

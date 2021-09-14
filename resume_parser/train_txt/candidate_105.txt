@@ -1,0 +1,27 @@
+JEREMY WANG
+
+JUNIOR PYTHON DEVELOPER
+
+PERSONAL PROFILE WORK BACKGROUND
+
+Fresher python developer interested in
+data analytics and machine learning.
+
+DKB Innovations
+PYTHON INTERN, JUN 2019 - JAN 2020
+
+Worked on a small end-to-end project related to a shopping site and
+search engine recommender.
+
+SKILLS EDUCATION
+
+Machine Learning, Data processing, B.TECH CSE Heramba Chandra College, 2020
+Data visualization, Deep Learning, SQL,
+
+Python Programming, PyCharm,
+Django.
+
+PROJECTS OTHER ACTIVITIES
+
+Smart API serving. Statistics in Python
+

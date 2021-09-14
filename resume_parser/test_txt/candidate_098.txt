@@ -1,0 +1,29 @@
+LESLIE SUION
+
+SOFTWARE ENGINEER
+
+ABOUT
+
+lam an assistant software engineer working on cloud-based solutions. After working on a couple of Machine Learning
+application evaluations and deployment | got really engrossed into the domain and would like to work more towards
+improving myself.
+
+SKILLS
+
+Machine Learning Engineer, C++, Technical Documentation, Natural Language Processing, SQL, Tableau, Python, AWS,
+Azure, SAP, OracleDB, Heroku.
+
+PROJECT WORK EXPERIENCE
+
+Complexity based sorter for C++ VoyaGenius Labs
+Software Developer (ML), Dec 2018 - Ongoing
+
+OTHER QUALIFICATION Geocoding and detecting rooftop images based on
+
+C++ Developer - Grade A given Indian addresses.
+
+EDUCATION
+
+B.Tech(Telecommunication) from KLE College of
+Engineering, Belagavi in 2018
+

@@ -1,0 +1,30 @@
+ROBERT MATHEWS
+
+MACHINE LEARNING ENGINEER (QUALITY CONTROL)
+
+ABOUT
+
+Recent Graduate testing and debugging machine learning models. | have worked on multiple projects and have
+contributed to the testing and quality control of models over time. | am looking to switch to a development role where | can
+exercise my skills.
+
+SKILLS
+
+Machine Learning, Data Analytics, Data Manipulation, Data Mining, Deep Learning, Algorithms, Selenium, Jenkins, Python,
+Java, SQL, Quality Control.
+
+PROJECT WORK EXPERIENCE
+Data manipulation and Code update for Dass Systems
+Employee turnover Prediction using Junior Machine Learning Engineer, Jan 2020 - Ongoing
+
+Random Forest.
+Testing, debugging and parameter tuning for models
+developed by the internal team.
+
+OTHER QUALIFICATION
+
+Selenium Tester - Level B EDUCATION
+
+B.Tech(IT) from National Institute Of Science And
+Technology,Rourkela in 2019
+
